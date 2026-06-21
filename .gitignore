@@ -1,0 +1,24 @@
+# 系统文件和缓存
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Obsidian vault 配置和数据
+.obsidian/
+.obsidian.plugins.json
+.obsidian.plugins.data.json
+
+# Claude Code 配置
+.claude/
+.claudian/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 临时文件
+*.tmp
+*.bak
+~*
