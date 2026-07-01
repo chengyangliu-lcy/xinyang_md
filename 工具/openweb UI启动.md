@@ -236,6 +236,7 @@ docker run -d --name open-webui -p 3000:8080 -v open-webui:/app/backend/data -e 
     }
 ```
 
+
   
 
 
